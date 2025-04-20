@@ -1,0 +1,8 @@
+{
+    "cost_per_household": 50000,
+    "alpha": 50,
+    "years": 10,
+    "target_m": 20,
+    "population_size": 100,
+    "max_generations": 200
+}
